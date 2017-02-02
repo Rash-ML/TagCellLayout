@@ -39,7 +39,8 @@ public class TagCellLayout: UICollectionViewLayout {
 		
 		init(layoutAttribute: UICollectionViewLayoutAttributes) {
 			self.layoutAttribute = layoutAttribute
-			self.whiteSpace = 10
+			self.whiteSpace = 12
+            
 		}
 	}
 	
